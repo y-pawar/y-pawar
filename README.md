@@ -5,12 +5,12 @@
    🌱 I’m currently learning *Linux and AWS*
 
    👨‍💻 All of my projects are available at
-    <a href="https://hemantsportfolio.netlify.app/" target="_blank">Portfolio</a>
+    <a href="http://portfolios.ecti.co.in/yogeshp/" target="_blank">Portfolio</a>
 
  💬 Ask me about *CSS, javaScript and Html*
  💬 Ask me about *Spring BOOT, javaScript and Java*
 
- 📫 How to reach me *hemantgite22@gmail.com*
+ 📫 How to reach me *Ypwar331@gmail.com*
 
  ⚡ Fun fact *This may seem like a no-brainer, but any IT recruiter will tell you that there are various synonyms for the same job: full-stack developer, programmer, architect, analyst, and so on. According to a survey, various web developers were asked what job title they would prefer most. They were asked to choose among the job titles like Engineers, Developers, Programmers, Senior Developers, and Full-Stack Developers. With 72.6 % of the vote, the title “Web Developer” was the most common choice.*
  ⚡ Fun fact *Full Stack Developer--> It does not mean you have mastered everything about web development; it means that you can work on both the front-end and back-end, with minimal assistance*
